@@ -1,0 +1,8 @@
+VM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+
+
+
+
+
+
